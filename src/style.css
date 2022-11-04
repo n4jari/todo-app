@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("./Helper/fonts/Roboto-Regular.eot");
+  src: url("./Helper/fonts/Roboto-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("./Helper/fonts/Roboto-Regular.woff2") format("woff2"),
+    url("./Helper/fonts/Roboto-Regular.woff") format("woff"),
+    url("./Helper/fonts/Roboto-Regular.ttf") format("truetype");
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
